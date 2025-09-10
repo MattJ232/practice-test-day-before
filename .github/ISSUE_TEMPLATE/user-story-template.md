@@ -8,5 +8,7 @@ assignees: ''
 ---
 
 As a: <user>
+
 I can: <action> 
+
 So that: <benefit>
